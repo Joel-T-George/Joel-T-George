@@ -1,3 +1,4 @@
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{Joel-T-George}/count.svg"/></p>
 [![GitHub Streak](https://streak-stats.demolab.com?user=Joel-T-George&theme=dark&hide_border=true&border_radius=7&mode=weekly&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
 
 <!--
