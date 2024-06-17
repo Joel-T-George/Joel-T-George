@@ -1,10 +1,11 @@
+<p align="center"><b>Profile Viewers</b></p> 
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{Joel-T-George}/count.svg"/></p>
+
 <p align="center"><a href="https://leetcode.com/u/Joel-T-George/"><img align="center" src="https://streak-stats.demolab.com?user=Joel-T-George&theme=dark&hide_border=true&border_radius=7&mode=weekly"/></a></p>
 
 
 
 
-[![GitHub Streak]()](https://git.io/streak-stats)
 
 <!--
 **Joel-T-George/Joel-T-George** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
