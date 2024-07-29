@@ -1,4 +1,4 @@
-<p align="center"><a href="https://www.linkedin.com/in/joel-t-george" target="blank"><img src="https://readme-typing-svg.demolab.com?font=Roboto+slab&weight=700&pause=500&color=0E3141&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=600&height=60&lines=I'm+Joel+T+George%2C+Driven+by+Passion.;Engineering+Modern+Technology+for+a+Better+Tomorrow." alt="Typing SVG" /></a></p>
+<p align="center"><a href="https://www.linkedin.com/in/joel-t-george" target="blank"><img src="https://readme-typing-svg.demolab.com?font=Roboto+slab&weight=700&pause=500&color=0E3141&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=600&height=60&lines=I'm+Joel+T+George%2C+Driven+by+Passion;Engineering+Modern+Technology+for+Better+Tomorrow." alt="Typing SVG" /></a></p>
 <p align="center"><b>Profile Viewers</b></p> 
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{Joel-T-George}/count.svg"/></p>
 
